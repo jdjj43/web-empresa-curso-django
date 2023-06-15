@@ -1,2 +1,2 @@
 # web-empresa-curso-django
-Web curso djago
+Web curso djagno
